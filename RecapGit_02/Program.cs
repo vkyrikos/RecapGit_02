@@ -29,5 +29,9 @@ namespace RecapGit_02
             return number0 + number1;
         }
 
+        static int Subtraction(int number0, int number1)
+        {
+            return number0 - number1;
+        }
     }
 }
