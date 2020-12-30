@@ -20,5 +20,9 @@ namespace RecapGit_02
         {
             Console.WriteLine("Hello World");
         }
+        static int Multiplication(int number0, int number1)
+        {
+            return number0 * number1;
+        }
     }
 }
