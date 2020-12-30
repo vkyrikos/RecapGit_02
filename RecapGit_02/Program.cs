@@ -37,5 +37,9 @@ namespace RecapGit_02
         {
             return number0 * number1;
         }
+        static double Division(int number0, int number1)
+        {
+            return number0 / number1;
+        }
     }
 }
