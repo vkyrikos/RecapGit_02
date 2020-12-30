@@ -28,6 +28,10 @@ namespace RecapGit_02
         {
             return number0 + number1;
         }
+        static void Something()
+        {
+            Console.WriteLine("SOmething");
+        }
 
         static int Subtraction(int number0, int number1)
         {
