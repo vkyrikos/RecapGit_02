@@ -41,5 +41,9 @@ namespace RecapGit_02
         {
             return number0 / number1;
         }
+        static void Truth()
+        {
+            Console.WriteLine("Me I always tell the truth, even when I lie.");
+        }
     }
 }
