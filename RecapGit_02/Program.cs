@@ -20,5 +20,9 @@ namespace RecapGit_02
         {
             Console.WriteLine("Hello World");
         }
+        static void TestMethod()
+        {
+            Console.WriteLine("Testing grounds");
+        }
     }
 }
