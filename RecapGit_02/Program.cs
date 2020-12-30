@@ -7,7 +7,14 @@ namespace RecapGit_02
         static void Main(string[] args)
         {
             Print();
-
+            Customer customer = new Customer()
+            {
+                FirstName = "Vasileios",
+                LastName = "Kyrikos",
+                Age = 32,
+                Address = "Vonitsas",
+                Id = 1
+            };
         }
         static void Print()
         {
